@@ -1,0 +1,2 @@
+# lab01-failure-forensics-UK-Post-Office-Horizon
+ASE Lab 1 submission by Utkarsh (MSE2026016) &amp; Vaibhav (MSE2026010) for analyzing the UK Post Office Horizon system failure. This repository contains our forensic investigation into the technical defects, SDLC failures, &amp; severe ethical breaches that led to the wrongful prosecution of over 900 sub-postmasters, also the proposed preventive controls.
