@@ -1,0 +1,8 @@
+The Inquiry Chair, Sir Wyn Williams' inquiry report [Vol. 1] [https://www.postofficehorizoninquiry.org.uk]
+Computer Weekly "Post Office Horizon scandal explained: Everything you need to know" [by Karl Flinders] [https://www.computerweekly.com/feature/Post-Office-Horizon-scandal-explained-everything-you-need-to-know]
+Computer Weekly "Bankruptcy, prosecution and disrupted livelihoods - Postmasters tell their story" [by Rebecca Thomson, 2009]
+British Post Office Scandal [https://en.wikipedia.org/wiki/British_Post_Office_scandal]
+Criminal Cases Review Commission, Post Offices "Horizon" Cases [https://ccrc.gov.uk/post-office-horizon-cases/]
+Second Sight Forensic Interim Report on the Post Office Scandal [Ron Warmington, Ian Henderson] [https://www.postofficescandal.uk/post/the-second-sight-interim-report/]
+Post Office Horizon scandal: Why hundreds were wrongly prosecuted [BBC] [https://www.bbc.com/news/articles/c1wpp4w14pqo]
+Collection of Articles on The Guardian about the "Post Office Horizon scandal" [https://www.theguardian.com/uk-news/post-office-horizon-scandal]
